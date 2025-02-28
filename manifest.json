@@ -1,7 +1,7 @@
 {
   "name": "ChasingMajors",
   "short_name": "ChasingMajors",
-  "start_url": "https://www.chasingmajors.com/release-schedule",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
